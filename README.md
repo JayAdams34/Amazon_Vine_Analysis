@@ -1,4 +1,6 @@
 # Amazon_Vine_Analysis
+Please reach out to me, Jamar Adams, at adams.jamar757@gmail.com
+
 
 ## Amazon_Vine_Analysis Overview
   The purpose of this analysis was to analyze Amazon reviews written by members of the paid Amazon Vine program using a dataset and Pyspark to perform the ETL process and connet to an AWS RDS instance.
